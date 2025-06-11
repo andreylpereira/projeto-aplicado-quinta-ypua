@@ -1,0 +1,20 @@
+.btn-outline-light:hover {
+    color: var(--bs-info) !important;
+}
+
+.nav-link:hover {
+    color: var(--bs-border) !important;
+}
+
+a:hover {
+    color: var(--bs-info) !important;
+ }
+
+ a:active, a:focus {
+    color: var(--bs-border) !important;
+ }
+
+ .nav-link:focus {
+    color: white !important;
+    font-weight: bold !important;
+ }

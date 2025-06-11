@@ -1,0 +1,11 @@
+#user-svg {
+  fill: var(--bs-info);
+  stroke: var(--bs-info);
+}
+
+.page-height {
+  height: 100vh;
+}
+.card-width {
+  width: 400px;
+}

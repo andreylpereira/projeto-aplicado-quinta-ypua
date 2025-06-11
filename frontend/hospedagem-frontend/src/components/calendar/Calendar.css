@@ -1,0 +1,24 @@
+.react-datepicker__day--highlighted {
+    background-color: var(--bs-danger);
+  }
+
+  .react-datepicker__day--highlighted:not([aria-disabled="true"]):hover {
+    background-color: var(--bs-danger);
+    opacity: 50%;
+  }
+  
+  .react-datepicker__day--keyboard-selected {
+    background-color: var(--bs-info);
+    color: azure;
+  }
+  
+  .react-datepicker__close-icon::after {
+    background-color: var(--bs-secondary);
+    font-weight: bold;
+  }
+
+  .react-datepicker-wrapper, .react-datepicker__input-container > input {
+    min-width: 100% !important;
+   
+  }
+

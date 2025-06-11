@@ -1,0 +1,15 @@
+/*  Estilização padrão para todos os modals */
+.modal-footer {
+  border-top: none;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.modal-header,
+.modal-title {
+  background-color: var(--bs-info);
+  color: var(--bs-light);
+}
+

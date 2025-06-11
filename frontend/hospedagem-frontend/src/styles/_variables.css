@@ -1,0 +1,3 @@
+.table-info, .badge-button {
+  background-color: var(--bs-info) !important;
+}
